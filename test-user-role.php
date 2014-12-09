@@ -6,7 +6,7 @@ Description: Quickly test other user roles from a super admin account, to see wh
 Author URI: http://mitcho.com/
 Donate link: http://tinyurl.com/donatetomitcho
 License: GPLv2 or later
-Version: 0.6
+Version: 1.0
 */
 
 add_action('admin_bar_menu', 'tus_menu', 11);
