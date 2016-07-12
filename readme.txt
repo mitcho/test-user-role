@@ -4,7 +4,7 @@ Donate link: http://tinyurl.com/donatetomitcho
 Author URI: http://mitcho.com/code/
 Tags: admin, admin bar, toolbar, user role, test, testing, users, capabilities, management
 Requires at least: 3.3
-Tested up to: 4.0.1
+Tested up to: 4.6
 Stable tag: 1.0
 
 Quickly test other user roles from a super admin account, to see what other users experience.
